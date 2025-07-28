@@ -43,6 +43,11 @@
    - It exports the **currently displayed data** from the visualizer table to a new `.csv` file  
    - The exported file should reflect any applied filters or selections made in the UI
 
+4. **Improve the UI**
+   
+   Tinker with the existing PySide6 interface to enhance the layout, responsiveness, and overall user experience.
+   - Bring your creativity out — feel free to redesign or rearrange components for a cleaner and more intuitive interface.
+
 
 ---
 
