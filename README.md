@@ -20,7 +20,7 @@
 
 - A `movies.csv` file with movie data  
 - A ready-to-use **PySide6 UI** (`dashboard.py`)  
-- A [demo video](https://github.com/your-org/your-repo/assets/demo.mp4) showing the expected functionality
+- A [demo video](https://github.com/AadarshM07/CineScope-S3/blob/main/demo.mp4) showing the expected functionality
 
 ---
 
