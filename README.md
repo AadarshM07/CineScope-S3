@@ -14,6 +14,13 @@
 
 ---
 
+## Steps to Run the Project
+1. Set up the virtual environment
+2. Activate the virtual environment
+3. Install dependencies `requirements.txt`
+4. Run the application `python main.py`
+
+
 
 
 ## 🗂 What You’re Given
